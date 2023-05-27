@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -30,11 +30,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![Mobile Design](./screenshot-mobile.png)
 
-
 ### Links
 
-- Solution URL: [Github Code](https://your-solution-url.com)
-- Live Site URL: [Github Page](https://your-live-site-url.com)
+- Solution URL: [Github Code](https://github.com/dscorzoni/project-profile-component)
+- Live Site URL: [Github Page](https://dscorzoni.github.io/dscorzoni/project-profile-component/)
 
 ## My process
 
@@ -61,5 +60,3 @@ This was my first time playing around with borders and overlaying images, so it 
 - Website - [Danilo Scorzoni Ré](https://github.com/dscorzoni)
 - Frontend Mentor - [@dscorzoni](https://www.frontendmentor.io/profile/dscorzoni)
 - LinkedIn - [@dscorzoni](https://www.linkedin.com/in/dscorzoni/)
-
-
