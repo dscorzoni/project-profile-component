@@ -8,7 +8,10 @@
 }
 
 body {
-    background-color: hsl(185, 75%, 39%);
+    background: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+    background-position: right 52vw bottom 35vh, left 48vw top 52vh;
+    background-repeat: no-repeat, no-repeat;
+    background-color: hsl(185deg, 75%, 39%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -84,44 +87,6 @@ p {
     letter-spacing: 0.1rem;
     color: hsl(0, 0%, 59%);
 }
-
-.bg-top {
-    position: fixed;
-    left: -20%;
-    top: -40%;
-    z-index: -1;
-}
-
-.bg-bottom {
-    position: fixed;
-    right: -15%;
-    bottom: -50%;
-    z-index: -1;
-}
-
-@media screen and (max-width: 500px) {
-
-    .bg-top {
-        left: -200%;
-        top: -100%;
-
-    }
-   
-    .bg-bottom {
-        right: -200%;
-        bottom: -80%;
-    }
-  }
-
-
-
-
-
-
-
-
-
-
 
 
 /* Default from FrontEnd Mentor */

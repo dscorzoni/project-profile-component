@@ -51,8 +51,6 @@ This was my first time playing around with borders and overlaying images, so it 
 
 - [Images Overlay](https://blog.logrocket.com/guide-image-overlays-css/) - This was a useful guide to understand about position: absolute/relative on using to position the profile picture over the background header.
 
-- [Hiding scrollbars](https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp) - Quick guide on how to hide scrollbar as an effect of using the big background SVGs.
-
 - [Letter-spacing](https://cssreference.io/property/letter-spacing/) - A quick guide to change the default on letter spacing for displaying the text below the stats.
 
 ## Author
