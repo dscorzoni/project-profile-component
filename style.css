@@ -26,6 +26,8 @@ main {
 }
 
 article {
+    width: 350px;
+    margin: auto;
     border-radius: 1rem;
     background-color: hsl(0, 0%, 93%);
     
