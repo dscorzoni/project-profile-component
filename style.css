@@ -20,9 +20,12 @@ body {
     text-align: center;
 }
 
-article {
+main {
     width: 350px;
     margin: auto;
+}
+
+article {
     border-radius: 1rem;
     background-color: hsl(0, 0%, 93%);
     
